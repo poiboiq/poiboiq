@@ -291,7 +291,7 @@ Building AI automation and backend systems across applied AI, CRM automation, vo
 <br/>
 <br/>
 
-<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poiboiq&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB" />
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poiboiq&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB&hide=html,css" />
 
 </div>
 
